@@ -1,3 +1,4 @@
+### da verificare e tradurre in lingua italiana
 # php2shell-scanner
 
 A command-line tool for detecting CVE-2026-109618 and CVE-2026-109619 in PHP applications.
